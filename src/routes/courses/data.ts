@@ -46,6 +46,22 @@ export const data: Record<string, DeptData> = {
     link: 'https://drive.google.com/file/d/1JgsDTIFrcIWrQpbSDFDRsn4qq9fTs7GJ/view?usp=sharing'
 }
 	},
+	Humanity_Science: {
+		name: 'Humanity Science',
+		HOD: 'Mr. Venugopal Kurup (HOD)',
+		teachingFaculty: [
+			'Mr. Venugoapal Kurup',
+			'Mrs. Malini Pawnday',
+			'Mrs. Roopa Shetty', 
+			'Mr. Upendra Dutta Rai',
+			'Mrs. Shalvi Bahadur',
+			'Mrs. Deepti Kalantri',
+			'Mrs. Purnima M. Barhate'
+			'Mrs. R.P. Snehalata'
+		],
+		teachingFacultyQualifications: ['MSc. Maths','MSc Physics','M A English','MSc Chemistry',,'MSC Maths','MSc Physics','MSc Chemistry','MSC Maths'],
+		nonTeachingFaculty: ['Mr. Raju R','Mr.Hitesh Bhandane'], 
+	},
 	electronics_and_computer_engineering: {
 		name: 'Electronics & Computer Engineering (TE)',
 		HOD: 'Mrs. Raji MP (HOD)',
